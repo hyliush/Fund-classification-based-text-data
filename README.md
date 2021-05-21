@@ -47,4 +47,5 @@ precision=\frac{TP}{TP+FP}
 recall=\frac{TP}{TP+FN}  
 4.F1-score：兼顾精确率和召回率，两者的调和平均。  
 F1_{score}=\frac{2precision\times recall}{precision+recall}  
-5.混淆矩阵。
+5.混淆矩阵。  
+![Image text](https://github.com/hyliush/Fund-classification-based-text-data/blob/main/%E5%81%8F%E8%82%A1%E5%81%8F%E5%80%BA.png)
